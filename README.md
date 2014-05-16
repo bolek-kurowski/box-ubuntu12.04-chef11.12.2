@@ -4,8 +4,7 @@ Base box to use for running chef recipes
 
 # What's new
 
-- Add license
-- Update readme
+- version bump for chef
 
 # License
 
@@ -31,6 +30,9 @@ IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Changelog
+
+## 1.0.1
+- version bump for chef
 
 ## 1.0.0
 - version bump
